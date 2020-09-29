@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "issuetracker0948b241": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-issuetracker-dev-185749-authRole",
+      "UnauthRoleArn": "arn:aws:iam::860180263121:role/amplify-issuetracker-dev-185749-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::860180263121:role/amplify-issuetracker-dev-185749-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-issuetracker-dev-185749-deployment",
+      "UnauthRoleName": "amplify-issuetracker-dev-185749-unauthRole",
+      "StackName": "amplify-issuetracker-dev-185749",
+      "StackId": "arn:aws:cloudformation:eu-central-1:860180263121:stack/amplify-issuetracker-dev-185749/9a1bd3a0-0192-11eb-8472-0649c76dd8f4",
+      "AmplifyAppId": "d29hmnn61pbn70"
+    },
+    "categories": {
+      "auth": {
+        "issuetracker0948b241": {}
+      }
+    }
+  }
+}
